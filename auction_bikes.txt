@@ -1,0 +1,12 @@
+Name                  Company       Model        Mileage Price  Description                                          Seller Name         Contact      Fuel Type        Engine            Rating year Available Color  
+
+Toyota Camry          Toyota        Camry XSE     28mpg $25,000 A stylish and reliable sedan with advanced features  XYZ Motors          123-456-7890 Petrol           2.5L I4              4.5 2022 Karachi   Silver 
+Honda Accord          Honda         Accord LX     30mpg $23,500 Comfortable and fuel-efficient family sedan          ABC Autos           987-654-3210 Gasoline         1.5L Turbocharged I4 4.2 2021 Lahore    Blue   
+Ford Mustang          Ford          Mustang GT    18mpg $35,000 A powerful and iconic American muscle car            Mustang Motors      111-222-3333 Premium Unleaded 5.0L V8              4.8 2023 Islamabad Red    
+Chevrolet Malibu      Chevrolet     Malibu LT     32mpg $21,800 Modern and fuel-efficient midsize sedan              Chevy Cars          444-555-6666 Regular Unleaded 1.5L Turbocharged I4 4.3 2022 Karachi   Black  
+BMW 3 Series          BMW           330i          26mpg $40,000 Luxury sedan with a sporty edge and advanced tech    BMW Luxury Cars     999-888-7777 Premium Unleaded 2.0L Turbocharged I4 4.6 2021 Lahore    White  
+Nissan Altima         Nissan        Altima S      29mpg $22,500 Reliable and spacious midsize sedan                  Nissan Dealership   777-666-5555 Regular Unleaded 2.5L I4              4.0 2022 Islamabad Gray   
+Hyundai Sonata        Hyundai       Sonata SEL    31mpg $24,000 Comfortable and feature-packed family sedan          Hyundai Cars        222-333-4444 Gasoline         2.5L I4              4.2 2021 Karachi   Silver 
+Lexus ES              Lexus         ES 350        27mpg $42,000 Luxury sedan with a smooth and quiet ride            Lexus Luxury Motors 555-444-3333 Premium Unleaded 3.5L V6              4.7 2023 Lahore    Blue   
+Volkswagen Passat     Volkswagen    Passat R-Line 28mpg $26,500 European-inspired design with a comfortable interior VW Cars             888-777-6666 Regular Unleaded 2.0L Turbocharged I4 4.4 2022 Islamabad Black  
+Mercedes-Benz C-Class Mercedes-Benz C300          25mpg $38,000 Elegance and performance in a compact luxury sedan   Mercedes Dealers    666-555-4444 Premium Unleaded 2.0L Turbocharged I4 4.5 2021 Karachi   White  
